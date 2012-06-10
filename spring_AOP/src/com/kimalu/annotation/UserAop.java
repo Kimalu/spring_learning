@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @Aspect
 @Component
 public class UserAop {
-	@Pointcut("execution(public * com.Kimalu.spring.UserService.*User(..))")
+	@Pointcut("execution(public * com.kimalu.annotation.UserService.*User(..))")
 	private void myAop(){}
 	
 	@Before("myAop()")
