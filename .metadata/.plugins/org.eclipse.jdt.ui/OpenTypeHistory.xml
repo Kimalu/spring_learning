@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj.autoproxy(AspectJAwareAdvisorAutoProxyCreator.class[AspectJAwareAdvisorAutoProxyCreator" modifiers="33" timestamp="1343379669671"/>
+<typeInfo handle="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.reflect(NativeMethodAccessorImpl.class[NativeMethodAccessorImpl" modifiers="32" timestamp="1324716536305"/>
+<typeInfo handle="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang.reflect(Proxy.class[Proxy" modifiers="33" timestamp="1324716536305"/>
+<typeInfo handle="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ProxyFactory.class[ProxyFactory" modifiers="33" timestamp="1343379669671"/>
+</typeInfoHistroy>

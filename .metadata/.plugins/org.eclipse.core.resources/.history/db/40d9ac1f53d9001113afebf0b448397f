@@ -1,0 +1,5 @@
+package com.Kimalu.spring;
+
+public interface UserService {
+
+}

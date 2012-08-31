@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="54" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="200" y="200">
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.ui.views.ProblemView"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.BreakpointView"/>
+<orientation position="512" view="org.eclipse.jdt.debug.ui.DisplayView"/>
+</fastViewData>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="124" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="135" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="95" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="101" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="198" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1343440457758" focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ConfigBeanDefinitionParser.class" partName="ConfigBeanDefinitionParser.class" title="ConfigBeanDefinitionParser.class" tooltip="org.springframework.aop.config.ConfigBeanDefinitionParser" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.config(ConfigBeanDefinitionParser.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5315" selectionTopPixel="1155"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="DefaultListableBeanFactory.class" partName="DefaultListableBeanFactory.class" title="DefaultListableBeanFactory.class" tooltip="org.springframework.beans.factory.support.DefaultListableBeanFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.beans-3.1.2.RELEASE.jar&lt;org.springframework.beans.factory.support(DefaultListableBeanFactory.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="24029" selectionTopPixel="9843"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="applicationContext.xml" partName="applicationContext.xml" path="D:/Kimalu/GitHub/spring_learning/010_spring_AOP_xml/src/applicationContext.xml" title="applicationContext.xml" tooltip="010_spring_AOP_xml/src/applicationContext.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/010_spring_AOP_xml/src/applicationContext.xml"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="XmlReaderContext.class" partName="XmlReaderContext.class" title="XmlReaderContext.class" tooltip="org.springframework.beans.factory.xml.XmlReaderContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.beans-3.1.2.RELEASE.jar&lt;org.springframework.beans.factory.xml(XmlReaderContext.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2195" selectionTopPixel="465"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractAutowireCapableBeanFactory.class" partName="AbstractAutowireCapableBeanFactory.class" title="AbstractAutowireCapableBeanFactory.class" tooltip="org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.beans-3.1.2.RELEASE.jar&lt;org.springframework.beans.factory.support(AbstractAutowireCapableBeanFactory.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="18764" selectionTopPixel="7361"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AspectJAwareAdvisorAutoProxyCreator.class" partName="AspectJAwareAdvisorAutoProxyCreator.class" title="AspectJAwareAdvisorAutoProxyCreator.class" tooltip="org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj.autoproxy(AspectJAwareAdvisorAutoProxyCreator.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2978" selectionTopPixel="612"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserService.java" partName="UserService.java" path="D:/Kimalu/GitHub/spring_learning/010_spring_AOP_xml/src/com/Kimalu/spring/UserService.java" title="UserService.java" tooltip="010_spring_AOP_xml/src/com/Kimalu/spring/UserService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/010_spring_AOP_xml/src/com/Kimalu/spring/UserService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="115" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ProxyConfig.class" partName="ProxyConfig.class" title="ProxyConfig.class" tooltip="org.springframework.aop.framework.ProxyConfig" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ProxyConfig.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="5222" selectionTopPixel="2210"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForumServiceImpl.java" partName="ForumServiceImpl.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/ForumServiceImpl.java" title="ForumServiceImpl.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/ForumServiceImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/ForumServiceImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="294" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ForumService.java" partName="ForumService.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/ForumService.java" title="ForumService.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/ForumService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/ForumService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="100" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PerformanceHandler.java" partName="PerformanceHandler.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/PerformanceHandler.java" title="PerformanceHandler.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/PerformanceHandler.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/PerformanceHandler.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="18" selectionOffset="123" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PerformanceMonitor.java" partName="PerformanceMonitor.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/PerformanceMonitor.java" title="PerformanceMonitor.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/PerformanceMonitor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/PerformanceMonitor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="408" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MethodPerformance.java" partName="MethodPerformance.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/MethodPerformance.java" title="MethodPerformance.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/MethodPerformance.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/MethodPerformance.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="687" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestForumService.java" partName="TestForumService.java" path="D:/Kimalu/GitHub/spring_learning/jdkDynaProxy/src/com/Kimalu/proxy/TestForumService.java" title="TestForumService.java" tooltip="jdkDynaProxy/src/com/Kimalu/proxy/TestForumService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/jdkDynaProxy/src/com/Kimalu/proxy/TestForumService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="509" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ProxyFactory.class" partName="ProxyFactory.class" title="ProxyFactory.class" tooltip="org.springframework.aop.framework.ProxyFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ProxyFactory.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1833" selectionTopPixel="425"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractAspectJAdvice.class" partName="AbstractAspectJAdvice.class" title="AbstractAspectJAdvice.class" tooltip="org.springframework.aop.aspectj.AbstractAspectJAdvice" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(AbstractAspectJAdvice.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="21580" selectionTopPixel="9945"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="ExposeInvocationInterceptor.class" partName="ExposeInvocationInterceptor.class" title="ExposeInvocationInterceptor.class" tooltip="org.springframework.aop.interceptor.ExposeInvocationInterceptor" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.interceptor(ExposeInvocationInterceptor.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3474" selectionTopPixel="1122"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserServiceTest.java" partName="UserServiceTest.java" path="D:/Kimalu/GitHub/spring_learning/010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java" title="UserServiceTest.java" tooltip="010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="252" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="MethodMatchers.class" partName="MethodMatchers.class" title="MethodMatchers.class" tooltip="org.springframework.aop.support.MethodMatchers" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.support(MethodMatchers.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3670" selectionTopPixel="1054"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="DefaultAdvisorChainFactory.class" partName="DefaultAdvisorChainFactory.class" title="DefaultAdvisorChainFactory.class" tooltip="org.springframework.aop.framework.DefaultAdvisorChainFactory" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(DefaultAdvisorChainFactory.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2262" selectionTopPixel="459"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AdvisedSupport.class" partName="AdvisedSupport.class" title="AdvisedSupport.class" tooltip="org.springframework.aop.framework.AdvisedSupport" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(AdvisedSupport.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3718" selectionTopPixel="5883"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractApplicationContext.class" partName="AbstractApplicationContext.class" title="AbstractApplicationContext.class" tooltip="org.springframework.context.support.AbstractApplicationContext" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.context-3.1.2.RELEASE.jar&lt;org.springframework.context.support(AbstractApplicationContext.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="49" selectionOffset="18420" selectionTopPixel="7582"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.ClassFileEditor" name="JdkDynamicAopProxy.class" partName="JdkDynamicAopProxy.class" title="JdkDynamicAopProxy.class" tooltip="org.springframework.aop.framework.JdkDynamicAopProxy" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(JdkDynamicAopProxy.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5595" selectionTopPixel="2142"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.junit.ResultView" partName="JUnit">
+<viewState failuresOnly="false" layout="1" orientation="2" ratio="252" scroll="false" time="true"/>
+</view>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Type Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" input="=010_spring_AOP_xml/jar\/com.springsource.org.aopalliance-1.0.0.jar&lt;org.aopalliance.intercept(MethodInvocation.class[MethodInvocation" link_editors="0" mv_vertical_scroll="0" orientation="3" qualified_names="0" ratio="350" selection="=010_spring_AOP_xml/jar\/com.springsource.org.aopalliance-1.0.0.jar&lt;org.aopalliance.intercept(MethodInvocation.class[MethodInvocation" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="0" workingSetName=""/>
+</view>
+<view id="org.eclipse.jdt.callhierarchy.view" partName="Call Hierarchy">
+<viewState search_scope_type="1"/>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.debug.ui.DisplayView" partName="Display">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.ClassFileEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.junit.ResultView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<view id="org.eclipse.jdt.callhierarchy.view"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Type Hierarchy"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2671395" ratioLeft="339" ratioRight="930" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.55542856" ratioLeft="486" ratioRight="389" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.debug.ui.BreakpointView" appearance="2" expanded="2">
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="JUnit"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="Display"/>
+<page content="org.eclipse.jdt.callhierarchy.view" label="Call Hierarchy"/>
+<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="6"/>
+<part id="4"/>
+<part id="5"/>
+<part id="7"/>
+<part id="8"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(AbstractAspectJAdvice.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.reflect(NativeMethodAccessorImpl.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.reflect(DelegatingMethodAccessorImpl.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/010_spring_AOP_xml/src/com/Kimalu/spring/UserAop.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(MethodInvocationProceedingJoinPoint.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ReflectiveMethodInvocation.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang.reflect(Method.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.support(AopUtils.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(AspectJAroundAdvice.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework.adapter(MethodBeforeAdviceInterceptor.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.interceptor(ExposeInvocationInterceptor.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(JdkDynamicAopProxy.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.context-3.1.2.RELEASE.jar&lt;org.springframework.context.support(AbstractApplicationContext.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework.autoproxy(AbstractAutoProxyCreator.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(AdvisedSupport.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(DefaultAdvisorChainFactory.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ProxyFactory.class"/>
+</editors>
+<item historyLabel="AopUtils.class" index="7">
+<position info="not_deleted" x="12003" y="0"/>
+</item>
+<item historyLabel="ReflectiveMethodInvocation.class" index="5">
+<position/>
+</item>
+<item historyLabel="ReflectiveMethodInvocation.class" index="5">
+<position/>
+</item>
+<item historyLabel="MethodInvocationProceedingJoinPoint.class" index="4">
+<position info="not_deleted" x="2893" y="0"/>
+</item>
+<item historyLabel="UserAop.java" index="3">
+<position info="not_deleted" x="308" y="0"/>
+</item>
+<item historyLabel="UserAop.java" index="3">
+<position info="not_deleted" x="372" y="0"/>
+</item>
+<item historyLabel="NativeMethodAccessorImpl.class" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DelegatingMethodAccessorImpl.class" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Method.class" index="6">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="AbstractAspectJAdvice.class" index="0">
+<position info="not_deleted" x="21993" y="0"/>
+</item>
+<item historyLabel="AbstractAspectJAdvice.class" index="0">
+<position info="not_deleted" x="21580" y="0"/>
+</item>
+<item historyLabel="AspectJAroundAdvice.class" index="8">
+<position info="not_deleted" x="1996" y="0"/>
+</item>
+<item historyLabel="ReflectiveMethodInvocation.class" index="5">
+<position info="not_deleted" x="5985" y="0"/>
+</item>
+<item historyLabel="MethodBeforeAdviceInterceptor.class" index="9">
+<position info="not_deleted" x="1660" y="0"/>
+</item>
+<item historyLabel="ReflectiveMethodInvocation.class" index="5">
+<position info="not_deleted" x="5985" y="0"/>
+</item>
+<item historyLabel="ExposeInvocationInterceptor.class" index="10">
+<position info="not_deleted" x="3474" y="0"/>
+</item>
+<item historyLabel="ExposeInvocationInterceptor.class" index="10">
+<position info="not_deleted" x="3514" y="0"/>
+</item>
+<item historyLabel="ExposeInvocationInterceptor.class" index="10">
+<position info="not_deleted" x="3474" y="0"/>
+</item>
+<item historyLabel="ReflectiveMethodInvocation.class" index="5">
+<position info="not_deleted" x="5985" y="0"/>
+</item>
+<item historyLabel="JdkDynamicAopProxy.class" index="11">
+<position info="not_deleted" x="7545" y="0"/>
+</item>
+<item historyLabel="JdkDynamicAopProxy.class" index="11">
+<position info="not_deleted" x="8039" y="0"/>
+</item>
+<item historyLabel="UserServiceTest.java" index="12">
+<position info="not_deleted" x="252" y="0"/>
+</item>
+<item historyLabel="AbstractApplicationContext.class" index="13">
+<position info="not_deleted" x="17977" y="0"/>
+</item>
+<item historyLabel="AbstractApplicationContext.class" index="13">
+<position info="not_deleted" x="18420" y="0"/>
+</item>
+<item historyLabel="AbstractAutoProxyCreator.class" index="14">
+<position info="not_deleted" x="13640" y="0"/>
+</item>
+<item historyLabel="JdkDynamicAopProxy.class" index="11">
+<position info="not_deleted" x="6694" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14389" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14445" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14501" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14525" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14607" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14525" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14706" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1928" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="14525" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1928" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1983" y="20"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1928" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1983" y="20"/>
+</item>
+<item historyLabel="ProxyFactory.class" index="17">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="ProxyFactory.class" index="17">
+<position info="not_deleted" x="3788" y="0"/>
+</item>
+<item historyLabel="ProxyFactory.class" index="17">
+<position info="not_deleted" x="1130" y="12"/>
+</item>
+<item historyLabel="ProxyFactory.class" index="17">
+<position info="not_deleted" x="1239" y="0"/>
+</item>
+<item historyLabel="ProxyFactory.class" index="17">
+<position info="not_deleted" x="1833" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="1928" y="0"/>
+</item>
+<item historyLabel="AdvisedSupport.class" index="15">
+<position info="not_deleted" x="3718" y="0"/>
+</item>
+<item historyLabel="DefaultAdvisorChainFactory.class" index="16">
+<position info="not_deleted" x="2262" y="0"/>
+</item>
+<item historyLabel="AbstractApplicationContext.class" index="13">
+<position info="not_deleted" x="18420" y="49"/>
+</item>
+<item historyLabel="JdkDynamicAopProxy.class" index="11">
+<position info="not_deleted" x="6694" y="102"/>
+</item>
+<item active="true" historyLabel="JdkDynamicAopProxy.class" index="11">
+<position info="not_deleted" x="5323" y="6"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="JdkDynamicAopProxy.class" tooltip="org.springframework.aop.framework.JdkDynamicAopProxy">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(JdkDynamicAopProxy.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractApplicationContext.class" tooltip="org.springframework.context.support.AbstractApplicationContext">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.context-3.1.2.RELEASE.jar&lt;org.springframework.context.support(AbstractApplicationContext.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AdvisedSupport.class" tooltip="org.springframework.aop.framework.AdvisedSupport">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(AdvisedSupport.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="NativeMethodAccessorImpl.class" tooltip="sun.reflect.NativeMethodAccessorImpl">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;sun.reflect(NativeMethodAccessorImpl.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserAop.java" tooltip="010_spring_AOP_xml/src/com/Kimalu/spring/UserAop.java">
+<persistable path="/010_spring_AOP_xml/src/com/Kimalu/spring/UserAop.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="MethodInvocationProceedingJoinPoint.class" tooltip="org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(MethodInvocationProceedingJoinPoint.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Method.class" tooltip="java.lang.reflect.Method">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang.reflect(Method.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="MethodInvocation.class" tooltip="org.aopalliance.intercept.MethodInvocation">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/com.springsource.org.aopalliance-1.0.0.jar&lt;org.aopalliance.intercept(MethodInvocation.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="MethodMatchers.class" tooltip="org.springframework.aop.support.MethodMatchers">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.support(MethodMatchers.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UserServiceTest.java" tooltip="010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java">
+<persistable path="/010_spring_AOP_xml/test/com/Kimalu/spring/UserServiceTest.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AspectJMethodBeforeAdvice.class" tooltip="org.springframework.aop.aspectj.AspectJMethodBeforeAdvice">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(AspectJMethodBeforeAdvice.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Proxy.class" tooltip="java.lang.reflect.Proxy">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/C:\/Program Files\/Java\/jre7\/lib\/rt.jar&lt;java.lang.reflect(Proxy.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="AbstractAspectJAdvice.class" tooltip="org.springframework.aop.aspectj.AbstractAspectJAdvice">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.aspectj(AbstractAspectJAdvice.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ProxyFactory.class" tooltip="org.springframework.aop.framework.ProxyFactory">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=010_spring_AOP_xml/jar\/org.springframework.aop-3.1.2.RELEASE.jar&lt;org.springframework.aop.framework(ProxyFactory.class"/>
+</file>
+</mruList>
+</workbench>

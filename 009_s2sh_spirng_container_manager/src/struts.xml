@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+	<!--<constant name="struts.objectFactory.spring.autoWire" value="name"/>-->
+	<constant name="struts.objectFactory"
+		value="org.apache.struts2.spring.StrutsSpringObjectFactory" />
+	<!--<constant name="struts.enable.DynamicMethodInvocation" value="false"/> -->
+	<!-- 通常只要在此加入如下配置，就可以解决中文问题 -->
+	<constant name="struts.i18n.encoding" value="UTF-8"></constant>
+	<constant name="struts.devMode" value="true" />
+	<!--<include file="example.xml"/> -->
+
+	<package name="default" namespace="/" extends="struts-default">
+		<default-action-ref name="index" />
+		<action name="userAction" class="userAction">
+			<result> <!--通过name属性和action中返回的字符串进行匹配，那么如果没有配置默认name="success" -->
+				success.jsp
+			</result>
+			<result name="error">
+				error.jsp
+        	</result>
+		</action>
+	</package>
+
+
+</struts>

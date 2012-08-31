@@ -1,0 +1,15 @@
+INDEX VERSION 1.126
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\300876646.index
+\springMVC_0100_helloworld\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3872648493.index
+\006_hibernate_struts2\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4149183814.index
+\springMVC_0100_helloworld\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2866797800.index
+\springMVC_0102\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3273015309.index
+\009_s2sh_spirng_container_manager\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3506190950.index
+\007_hibernate_struts2_spring\src
+D:\Kimalu\GitHub\spring_learning\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\467137463.index
+\008_hibernate_struts2_spring_autowire\src

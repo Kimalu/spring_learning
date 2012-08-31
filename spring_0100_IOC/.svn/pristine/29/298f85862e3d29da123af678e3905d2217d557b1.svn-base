@@ -1,0 +1,18 @@
+package com.Kimalu.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class TestUser {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		ApplicationContext ap=new ClassPathXmlApplicationContext("applicationContext.xml");
+		User user=(User)ap.getBean("User");
+		System.out.println(user.getUsername());
+		System.out.println(user.getPassword());
+	}
+
+}

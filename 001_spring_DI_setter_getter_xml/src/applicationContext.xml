@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	<bean id="c" class="com.Kimalu.spring.Collectionsss">
+		<property name="pros">
+			<props>
+				<prop key="a">a</prop>
+				<prop key="b">b</prop>
+				<prop key="c">c</prop>
+				<prop key="d">d</prop>
+			</props>
+		</property>
+		<property name="map">
+			<map>
+				<entry key="map1" value-ref="myObject"></entry>
+				<entry key="map2" value-ref="myObject"></entry>
+			</map>
+		</property>
+		<property name="set">
+			<set>
+				<value>set1</value>
+				<ref bean="myObject" />
+			</set>
+		</property>
+		<property name="list">
+			<list>
+				<value>list1</value>
+				<ref bean="myObject" />
+			</list>
+		</property>
+		<property name="array">
+		<array>
+			<value>1</value>
+			<value>2</value>
+			<value>3</value>
+			<value>4</value>
+		</array>
+		</property>
+	</bean>
+	<bean id="myObject" class="com.Kimalu.spring.MyObject">
+		<property name="name" value="Kimalu" />
+	</bean>
+</beans>

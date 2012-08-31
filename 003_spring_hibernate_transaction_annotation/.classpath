@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.beans-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.core-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.orm-3.0.2.RELEASE.jar" sourcepath="jar/spring/org.springframework.orm-sources-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/dbdriver/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="jar/datasource/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/slf4j-nop-1.5.8.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.context-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="jar/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="jar/spring/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.asm-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.expression-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.transaction-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.jdbc-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.aop-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/org.springframework.aspects-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="jar/spring/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="jar/spring/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
